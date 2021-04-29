@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE jxta:PipeAdvertisement>
+
+<jxta:PipeAdvertisement xmlns:jxta="http://jxta.org">
+	<Id>
+		urn:jxta:uuid-59616261646162614E5047205032503360940097144B4C329BB29C2DD9F96EEE04
+	</Id>
+	<Type>
+		JxtaUnicast
+	</Type>
+	<Name>
+		JXTASPEC:RespondService
+	</Name>
+</jxta:PipeAdvertisement>
